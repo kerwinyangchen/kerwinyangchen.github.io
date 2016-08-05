@@ -31,3 +31,5 @@ webrick:
 name: Kerwin Chen, Testing
 markdown: kramdown
 theme: minima
+
+permalink: /blog/:year/:month/:day/:title
